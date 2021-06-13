@@ -25,7 +25,7 @@ class Resume extends Component{
                        <h5>Email</h5>
                        <p>egyartok@gmail.com</p>
                        <h5>Web</h5>
-                       <p>kaylynResume.com</p>
+                       <p>to be determined</p>
                        <hr/>
                    </Cell>
                    <Cell className = "resume-rCol" col = {8}>
