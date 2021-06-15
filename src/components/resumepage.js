@@ -49,8 +49,8 @@ class Resume extends Component{
                        <Experience
                        startYear = "May 10, 2021"
                        endYear = "May 28, 2021"
-                       jobName = "Morningstar/Break Through Tech – Chicago, IL"
-                       jobTitle = "Sprinternship (3 week project)"
+                       jobName = "Morningstar – Chicago, IL"
+                       jobTitle = "Software Engineering Information Security Team Internship"
                        jobDesc = "Part of Agile and Scrum team that developed a REST private API to communicate with AWS. Learned AWS services/AWS Lambda to connect S3 bucket to DynamoDB using API management. Wrote Python scripts to create AWS Lambda and for uploading JSON files. Created and delivered team presentation to management."
                        />
                        <Experience
